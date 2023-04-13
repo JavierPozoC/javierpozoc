@@ -5,17 +5,19 @@
      informadas. En mi trabajo, me enfoco en explorar, analizar y visualizar grandes conjuntos de datos utilizando herramientas de análisis de datos y estadísticas    
      para identificar patrones y tendencias.</h4>
 
-<!--
-**JavierPozoC/javierpozoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+   
+<div align="left">        
+😄 about Me :
+<div align"left">   
+ - 🔭 I’m currently working on Datos estadísticos, bases de datos, KPI, gráficos.
+<div align"left">    
+ - 🌱 I’m currently learning Más sobre este mundo del Data Analyts
+<div align"left"> 
+ - 👯 I’m looking to collaborate on A una empresa a desarrollar estrategias comerciales para la toma de decisiones
+<div align"left">
+ - 💬 Ask me about Python - SQL - Tableau - Datos
+<div align"left"> 
+ - 📫 How to reach me: www.linkedin.com/in/javier-pozo-cayo
+<div align"left"> 
+ - ⚡ Fun fact: Me gusta las finanzas
